@@ -1,0 +1,7 @@
+dwave-ocean-sdk==7.0.0
+jupyter==1.0.0
+pyquafu==0.4.0
+pyqubo==1.4.0
+qiskit==1.1.1
+
+
