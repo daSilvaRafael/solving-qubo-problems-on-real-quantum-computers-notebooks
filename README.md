@@ -9,7 +9,7 @@ to finding optimal solutions of quadratic unconstrained binary optimization (QUB
 
 The reader needs to create an account on the following clouds:
 
- [Dwave Leap](https://cloud.dwavesys.com/leap/login/?next=/leap/)
+ [D-Wave Leap](https://cloud.dwavesys.com/leap/login/?next=/leap/)
 
  [Quafu](https://quafu.baqis.ac.cn/#/home)
 
