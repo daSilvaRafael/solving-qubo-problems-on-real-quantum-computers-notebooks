@@ -15,7 +15,7 @@ The reader needs to create an account on the following clouds:
 
  [Quafu](https://quafu.baqis.ac.cn/#/home)
 
-and save the api token on the corresponding notebook in order to run them. For Dwave's API token setup see [_Set Up Your Environment_](https://docs.ocean.dwavesys.com/en/latest/overview/install.html).
+and save the api token on the corresponding notebook in order to run them. For D-Wave's API token setup see [_Set Up Your Environment_](https://docs.ocean.dwavesys.com/en/latest/overview/install.html).
 
 
 ## Installation
