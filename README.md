@@ -1,7 +1,7 @@
 # Solving QUBO problems on real quantum computers
 
 Combinatorial problems, particularly NP-hard problems, present significant challenges for classical computation. Quantum
-computers have the potential to solve NP-hard problems more efficiently. In this notebooks, we use real quantum computers
+computers have the potential to solve NP-hard problems more efficiently. In these notebooks, we use real quantum computers
 to finding optimal solutions of quadratic unconstrained binary optimization (QUBO) problems. We present the computational results for a QUBO problem with 3 variables, and its extension to 6, 12 and 144 variables. Our findings indicate that the variational quantum eigensolver (VQE) algorithm with the constrained optimization by linear approximation (COBYLA) subroutine can yield optimal, less accurate, or unsatisfactory solutions depending on the problem instance. For all the considered instances of the QUBO problem, an optimal solution was successfully obtained via quantum annealing or hybrid solvers. 
 
 
